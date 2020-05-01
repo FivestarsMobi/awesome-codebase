@@ -74,7 +74,7 @@
     "gmaps": "^0.4.25",
     "highlightjs": "^9.16.2",
     "ion-rangeslider": "^2.3.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-bootstrap-wizard": "^1.4.2",
     "jquery-countdown": "^2.2.0",
     "jquery-countto": "^1.2.0",
